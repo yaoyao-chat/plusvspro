@@ -1,0 +1,13 @@
+title: 'GPT Pro和Plus的区别 2026：额度差几倍、谁该升级、差价值不值'
+description: 'GPT Pro和Plus的区别 2026：思考档、Codex 额度、倍数官方怎么说，谁该升级、差价怎么算、中途升级和降回；国内 Plus ¥129、Pro ¥699 起，瑶瑶ai训练师（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/plusvspro"
